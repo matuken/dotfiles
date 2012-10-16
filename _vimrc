@@ -37,6 +37,7 @@ Bundle 'Shougo/unite.vim'
 Bundle 'Shougo/neocomplcache'
 Bundle 'c9s/perlomni.vim'
 Bundle 'vim-ruby/vim-ruby'
+Bundle 'thinca/vim-quickrun'
 
 "vim-scripts repos
 "Bundle 'module.vim'
