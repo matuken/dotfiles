@@ -11,7 +11,7 @@ set ruler
 set laststatus=2
 set confirm
 set backspace=start,eol,indent
-filetype indent off
+filetype off
 
 autocmd FileType perl :map <C-n> <ESC>:!perl -cw %<CR>
 autocmd FileType perl :map <C-e> <ESC>:!perl %<CR>
