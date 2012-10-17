@@ -1,0 +1,3 @@
+[submodule "/home/matuken/dotfiles/bundle/vundle"]
+	path = /home/matuken/dotfiles/bundle/vundle
+	url = http://github.com/gmarik/vundle.git
